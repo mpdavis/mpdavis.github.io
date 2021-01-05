@@ -8,6 +8,7 @@ email: michael@mpdavis.com
 description: Solving difficult problems, with and without software.
 url: # the base hostname & protocol for your site
 keywords: ["blog", "jekyll"]
+theme: minimal-mistakes-jekyll
 
 #
 ###################################
