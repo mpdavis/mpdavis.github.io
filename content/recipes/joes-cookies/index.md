@@ -6,8 +6,6 @@ draft: false
 
 ![recipe](images/recipe.jpeg)
 
-
-
 The recipe doesn’t really say
 to add vanilla but I put in about 1 1/2 tsp of real vanilla. There aren’t many ingredients so I suggest using the best quality of each.
 
