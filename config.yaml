@@ -1,0 +1,13 @@
+baseURL: http://mpdavis.com/
+languageCode: en-us
+title: Michael Davis
+theme: ghostwriter
+
+menu:
+  main:
+    - name: Posts
+      url: /
+      weight: 1
+    - name: Recipes
+      url: /recipes/
+      weight: 2
