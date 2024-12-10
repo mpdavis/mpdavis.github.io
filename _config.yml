@@ -4,7 +4,6 @@ title: Michael Davis
 author:
   name: Michael Davis
   email: michael@mpdavis.com
-  github: mpdavis
 email: michael@mpdavis.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mpdavis.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -32,8 +31,11 @@ minima:
   skin: classic
   social_links:
     - { platform: github,         user_url: "https://github.com/mpdavis/" }
-    # - { platform: bluesky,        user_url: "https://bsky.app/profile/michael.cyclones.social" }
+    - { platform: bluesky,        user_url: "https://bsky.app/profile/michael.cyclones.social" }
     - { platform: instagram,      user_url: "https://www.instagram.com/michael_philip_davis/" }
+
+# theme: minima
+remote_theme: jekyll/minima
 
 # Collections
 collections:
