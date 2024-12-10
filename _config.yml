@@ -1,11 +1,10 @@
 # Site settings
 
-title: recipes.mpdavis.com
+title: Michael Davis
 author: Michael Davis
 email: michael@mpdavis.com
-description: Recipes worth saving.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://recipes.mpdavis.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mpdavis.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  mpdavis
 
 # Theme settings
