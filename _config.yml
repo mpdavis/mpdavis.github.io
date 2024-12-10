@@ -27,7 +27,7 @@ exclude:
   - _recipes/TEMPLATE.md
 
 # Theme settings
-theme: minima
+# theme: minima
 minima:
   skin: classic
   social_links:
