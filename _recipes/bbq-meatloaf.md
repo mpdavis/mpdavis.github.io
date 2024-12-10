@@ -1,9 +1,9 @@
 ---
 name: BBQ Meatloaf
-layout: page
+layout: recipe
+credit: https://kosmosq.com/blogs/recipes/kosmos-perfect-meatloaf-recipe
+image: images/bbq-meatloaf/1D08E333-8151-4F1E-8310-FFD8CF65B5D3_1_201_a.jpeg
 ---
-![bbq-meatloaf](images/bbq-meatloaf/1D08E333-8151-4F1E-8310-FFD8CF65B5D3_1_201_a.jpeg)
-
 ## Ingredients
 
 * 2 pounds 80/20 ground beef

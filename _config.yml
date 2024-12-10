@@ -7,6 +7,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mpdavis.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  mpdavis
 
+plugins:
+  - jekyll-figure
+
 # Theme settings
 theme: minima
 # The skins option isn't available until Minima v3.0, but v2.5 is the last official release

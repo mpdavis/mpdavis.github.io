@@ -1,0 +1,19 @@
+---
+layout: base
+---
+
+<article class="post">
+
+  <header class="recipe-header">
+    <h1 class="recipe-title">{{ page.title | escape }}</h1>
+  </header>
+
+  {% if page.image %}
+    <p><img src="{{ page.image }}" alt="bbq-meatloaf"></p>
+  {% endif %}
+
+  <div class="recipe-content">
+    {{ content }}
+  </div>
+
+</article>
