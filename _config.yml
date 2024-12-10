@@ -18,15 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Michael Davis
+title: recipes.mpdavis.com
 email: michael@mpdavis.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Recipes that are worth saving.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mpdavis.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: davis_m
 github_username:  mpdavis
 
 # Build settings
