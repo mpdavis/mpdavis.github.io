@@ -1,6 +1,6 @@
 ---
 name: Brown Butter Sweet Potato Casserole Pie
-layout: page
+layout: recipe
 ---
 ## Ingredients
 

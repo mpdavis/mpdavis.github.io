@@ -1,6 +1,6 @@
 ---
 name: Grandma Jean's Ham Balls
-layout: page
+layout: recipe
 ---
 
 ## Ingredients 

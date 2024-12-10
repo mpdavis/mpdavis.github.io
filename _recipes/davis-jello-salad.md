@@ -1,6 +1,6 @@
 ---
 name: Davis Jello Salad
-layout: page
+layout: recipe
 ---
 
 ## Ingredients

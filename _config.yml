@@ -1,7 +1,10 @@
 # Site settings
 
 title: Michael Davis
-author: Michael Davis
+author:
+  name: Michael Davis
+  email: michael@mpdavis.com
+  github: mpdavis
 email: michael@mpdavis.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mpdavis.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -10,33 +13,27 @@ github_username:  mpdavis
 plugins:
   - jekyll-figure
 
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - _recipes/TEMPLATE.md
+
 # Theme settings
 theme: minima
-# The skins option isn't available until Minima v3.0, but v2.5 is the last official release
-#minima:
-#  skin: solarized-dark
+minima:
+  skin: classic
+  social_links:
+    - { platform: github,         user_url: "https://github.com/mpdavis/" }
 
 # Collections
 collections:
   recipes:
     output: true
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/

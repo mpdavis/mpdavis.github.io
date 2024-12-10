@@ -16,4 +16,10 @@ layout: base
     {{ content }}
   </div>
 
+  {% if page.credit %}
+  <div class="recipe-credit">
+    <p>Original recipe credit goes to <a href={{ page.credit }}>{{ page.credit }}</a></p>
+  </div>
+  {% endif %}
+
 </article>
