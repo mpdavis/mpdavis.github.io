@@ -9,7 +9,9 @@ layout: base
   </header>
 
   {% if page.image %}
-    <p><img src="{{ page.image }}" alt="bbq-meatloaf"></p>
+  <div class="recipe-picture-lead">
+    <img src="/assets/images/recipes/{{ page.image }}">
+  </div>
   {% endif %}
 
   <div class="recipe-content">

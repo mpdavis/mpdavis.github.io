@@ -1,7 +1,7 @@
 ---
 name: Beef and Noodles
 layout: recipe
-image: images/beef-and-noodles/1FCB8C7A-2065-423C-ABF0-7C349C24ACDF_1_105_c.jpeg
+image: beef-and-noodles/finished.jpeg
 ---
 ## Ingredients
 
