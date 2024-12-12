@@ -2,7 +2,7 @@
 name: Birria
 layout: recipe
 credit: https://pinaenlacocina.com/birria-de-res-con-consome-beef-in-consomme/
-image: birria/image.jpeg
+image: birria/finished.jpeg
 ---
 ## Ingredients
 
